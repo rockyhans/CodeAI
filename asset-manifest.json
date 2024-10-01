@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodeAI/static/css/main.ddbd3f59.css",
+    "main.js": "/CodeAI/static/js/main.98d77c26.js",
+    "static/js/453.ed3810f9.chunk.js": "/CodeAI/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/CodeAI/index.html",
+    "main.ddbd3f59.css.map": "/CodeAI/static/css/main.ddbd3f59.css.map",
+    "main.98d77c26.js.map": "/CodeAI/static/js/main.98d77c26.js.map",
+    "453.ed3810f9.chunk.js.map": "/CodeAI/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddbd3f59.css",
+    "static/js/main.98d77c26.js"
+  ]
+}
