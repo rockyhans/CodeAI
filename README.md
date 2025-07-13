@@ -1,70 +1,104 @@
-# Getting Started with Create React App
+<h1 align="center" style="color:#2c3e50;">🧠 CSphere</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="./CodeAIPre.png" alt="CSphere Preview" width="700"/>
+</p>
 
-## Available Scripts
+<p align="center">
+  <b>An AI-driven coding assistant to enhance productivity and code quality in real-time.</b><br>
+  Offers smart suggestions, debugging support, and intelligent auto-completion as you code.
+</p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📄 About the Project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📄 About the Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**CodeAI** is a smart code assistant designed to help developers write cleaner, faster, and bug-free code.  
+It delivers real-time AI-powered suggestions, highlights syntax issues, and supports intelligent error correction — all within your development flow.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🌟 Features
 
-### `npm run build`
+- ⚡ **Real-time AI Suggestions**  
+  Get instant code recommendations based on what you’re typing.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 🧠 **Error Detection & Debugging**  
+  Automatically detect bugs and get guided fixes before compilation.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 📚 **Multi-language Support** *(Planned)*  
+  Initially supports JavaScript, with plans to add Java, Python, and more.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- 🔍 **Code Optimization Tips**  
+  Receive suggestions for improving performance, structure, and readability.
 
-### `npm run eject`
+- 💬 **Interactive Assistant**  
+  Chat with an AI bot about logic, syntax, or alternative approaches.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- 💻 **Developer-Centric UI**  
+  Clean and intuitive interface focused on coding efficiency.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛠️ Tech Stack
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+> This is a full-stack application powered by AI models (under development).
 
-## Learn More
+- ⚛️ **Frontend:** React.js  
+- 🧠 **AI Engine:** Custom Node.js APIs integrated with code analysis models  
+- 🌐 **Backend:** Node.js + Express.js  
+- 🗃️ **Database:** MongoDB  
+- ✨ **Future:** Integration with LLMs & language servers
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🚀 Live Demo
 
-### Code Splitting
+🌐 **App Link (Coming Soon):**  
+[🔗 codeai.dev] https://code-ai-mocha.vercel.app/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 📁 Project Structure
+```bash
+codeai/
+├── client/                  # React Frontend
+│ ├── src/
+│ │ ├── components/
+│ │ ├── services/
+│ │ ├── assets/
+│ └── index.html
+```
+⚙️ Getting Started
+1️⃣ Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/rockyhans/CodeAI
+bash
+Copy
+Edit
+cd csphere
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+2️⃣ Install Dependencies
+# For frontend
+```
+cd app
+npm install
+```
+App will be running at:
+<br>
+Frontend → http://localhost:3000 
 
-### Making a Progressive Web App
+Stay tuned for updates!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+👤 Contributors
+<table> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/u/164065390?v=4" width="80px;" alt="Danish Rizwan"/> <br /><sub><b>Danish Rizwan</b></sub><br /> <sub>Full-Stack Developer</sub> </td> </tr> </table>
+📬 Contact
+<br>
+📧 Email: rdanishrizwan@example.com
+<br>
+💼 Team: CodeAI Dev Core
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
