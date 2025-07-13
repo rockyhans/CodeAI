@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#2c3e50;">🧠 CSphere</h1>
 
 <p align="center">
-  <img src="./CodeAIPre.png" alt="CSphere Preview" width="700"/>
+  <img src="./CSpherePre.png" alt="CSphere Preview" width="700"/>
 </p>
 
 <p align="center">
