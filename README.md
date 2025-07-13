@@ -45,9 +45,7 @@ It delivers real-time AI-powered suggestions, highlights syntax issues, and supp
 > This is a full-stack application powered by AI models (under development).
 
 - ⚛️ **Frontend:** React.js  
-- 🧠 **AI Engine:** Custom Node.js APIs integrated with code analysis models  
-- 🌐 **Backend:** Node.js + Express.js  
-- 🗃️ **Database:** MongoDB  
+- 🧠 **AI Engine:** Gemini Pro API for real-time code assistance  
 - ✨ **Future:** Integration with LLMs & language servers
 
 ---
