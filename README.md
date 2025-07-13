@@ -13,8 +13,6 @@
 
 ## 📄 About the Project
 
-## 📄 About the Project
-
 **CodeAI** is a smart code assistant designed to help developers write cleaner, faster, and bug-free code.  
 It delivers real-time AI-powered suggestions, highlights syntax issues, and supports intelligent error correction — all within your development flow.
 
